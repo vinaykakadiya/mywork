@@ -1,0 +1,11 @@
+1)What is JQuery?
+->jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, ...
+
+2)How to Apply CSS Using JQuery, How to Add Class and Remove Class in JQuery, JQuery Animation?
+-> In this article, we will explore how we can apply CSS styles to HTML elements. It is recommended that you have some basic knowledge of HTML, CSS, JavaScript, and jQuery before beginning this article.
+-> Given an HTML element and the task is to add and remove multiple classes from it using JQuery. Approach: First select the element to which multiple classes will be added. Then use addClass() method to add multiple classes to the element and removeClass() method to remove multiple classes.
+-> Only numeric values can be animated (like "margin:30px"). String values cannot be animated (like "background-color:red"), except for the strings "show", "hide" and "toggle". These values allow hiding and showing the animated element.
+
+3)How to create slider with animation? 
+->Want to design a slider animation effect that will wow your visitors the second they enter your site? In this tutorial, we’ll show you how easy it is to reproduce this effect with Slider Revolution.
+  
