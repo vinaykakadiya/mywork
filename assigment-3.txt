@@ -1,0 +1,21 @@
+1)What are the new tags added in HTML5? 
+->(MOVED) article.
+  (MOVED) aside.
+  audio.
+  canvas.
+  command.
+  datalist.
+  details.
+  embed.
+2)How to embed audio and video in a webpage? 
+-> The <vid eo> element allows us to embed video files into an HTML, very similar to the way images are embedded. 
+   Attributes we can include are: src This attribute stands for the source, which is very similar to the src attribute used in the image element. 
+   We will add the link to a video file in the src attribute.
+3)Semantic element in HTML5?
+-> Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. 
+   Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them
+4)Canvas and SVG tags?
+-> Difference between SVG and HTML5 Canvas:
+             SVG	                                                                                 Canvas
+SVG gives better performance with smaller number of objects or larger surface.	Canvas gives better performance with smaller surface or larger number of objects.
+SVG can be modified through script and CSS.	                                    Canvas can be modified through script only.
