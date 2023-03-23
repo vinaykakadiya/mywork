@@ -1,0 +1,2 @@
+(1)React - Components, State, Props
+->Props are used to pass data, whereas state is for managing data. Data from props is read-only, and cannot be modified by a component that is receiving it from outside. State data can be modified by its own component, but is private (cannot be accessed from outside)
